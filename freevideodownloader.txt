@@ -1,5 +1,4 @@
 {
-  "downloader_intertitial_high" : "ca-app-pub-4736587958823322/7907673049",
   "downloader_intertitial_low" : "ca-app-pub-4736587958823322/9029183022",
   "downloader_native" : "ca-app-pub-4736587958823322/8837611338",
   "downloader_banner" : "ca-app-pub-3940256099942544/6300978111",
