@@ -4,5 +4,5 @@
   "downloader_banner" : "ca-app-pub-3940256099942544/6300978111",
   "downloader_open" : "ca-app-pub-4651313130361114/6242042041",
   "load_time" : 6,
-  "show_time" : 10
+  "show_time" : 9
 }
