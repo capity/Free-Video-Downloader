@@ -1,8 +1,8 @@
 {
-  "downloader_intertitial_low" : "ca-app-pub-4651313130361114/3852500660",
-  "downloader_native" : "ca-app-pub-4651313130361114/1181287059",
-  "downloader_banner" : "ca-app-pub-3940256099942544/6300978111",
-  "downloader_open" : "ca-app-pub-4651313130361114/6242042041",
+  "downloader_intertitial_low" : "/22387492205,22643404291/com.alldownloader2019.storysaverforinstagram.fbvideodownloader.savefro.Interstitial0.1637921992",
+  "downloader_native" : "/22387492205,22643404291/com.alldownloader2019.storysaverforinstagram.fbvideodownloader.savefro.Native0.1637921971",
+  "downloader_banner" : "/22387492205,22643404291/com.alldownloader2019.storysaverforinstagram.fbvideodownloader.savefro.Banner0.1637921940",
+  "downloader_open" : "/22387492205,22643404291/com.alldownloader2019.storysaverforinstagram.fbvideodownloader.savefro.AppOpen0.1637922011",
   "load_time" : 6,
   "show_time" : 9
 }
